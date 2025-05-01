@@ -33,7 +33,7 @@ Explore my repositories to see a range of basic and intermediate projects across
 Currently seeking opportunities to apply my skills in a professional environment where I can continue to grow while contributing to meaningful projects.<br/>
 
 ## 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/emmanuel-ezenwa-b858b614b/)
+[LinkedIn](https://www.linkedin.com/in/emmanuel-ezenwa-b858b614b/) <br/>
 Feel free to reach out if you're interested in collaborating or just want to chat about software development!<br/>
 
 Welcome to my world of continuous learning! 😊
